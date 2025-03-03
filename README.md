@@ -3,8 +3,11 @@ Welcome to my GitHub! I'm a data enthusiast passionate about transforming raw nu
 
 🔍 What I Bring to the Table:
 ✨ Data Wrangling & Cleaning – Turning messy data into valuable assets
+
 📊 Insightful Visualizations – Creating dynamic dashboards & reports
+
 📈 Data-Driven Storytelling – Bringing numbers to life for better decision-making
+
 
 🛠 Tech Stack: Power BI, Excel
 
